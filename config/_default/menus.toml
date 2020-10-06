@@ -17,21 +17,7 @@
   name = "Experience"
   url = "#experience"
   weight = 30
-
-  [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
-
-    [[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 50
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 60
+  
 
 [[main]]
   name = "Contact"
