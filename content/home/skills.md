@@ -24,7 +24,7 @@ subtitle = ""
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "50%"  
+  description = "90%"  
   
 [[feature]]
   icon = "instagram"
