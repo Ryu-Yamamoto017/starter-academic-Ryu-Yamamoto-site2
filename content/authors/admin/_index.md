@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "ryamamoto017@knights.ucf.edu"  # For a direct email link, use "mailto:test@example.org".
+- icon: instagram
+  icon_pack: fab
+  link: "https://www.instagram.com/sooloosan/"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sooloosan
@@ -62,9 +62,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 My name is Ryu. I am an MA Interdisciplinary Studies student who studies Texts & Technology with TESOL at the University of Central Florida.
