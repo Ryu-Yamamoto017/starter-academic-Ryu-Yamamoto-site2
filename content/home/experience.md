@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://global.ucf.edu/programs/intensive-english-program/"
   location = "Florida"
   date_start = "2019-09-25"
-  date_end = "2020-03-03"
+  date_end = "2020-05-01"
   description = """ At UCF, I spent two semesters studying in the TEFL/TESOL portion of my MA in Interdisciplinary Studies. During these two semesters, I tutored undergraduate ESL students at UCF's English Language Institute and assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020.
 
   Responsibilities include:
